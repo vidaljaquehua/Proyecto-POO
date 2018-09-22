@@ -1,1 +1,2 @@
-#niclude<iostream>
+#include<iostream>
+#include<ctime>
